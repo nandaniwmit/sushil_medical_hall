@@ -1,0 +1,6 @@
+{
+  "name": "Sushil Medical Hall",
+  "description": "Your Trusted Medical Store for Genuine Medicines, Healthcare Products, Surgical Supplies & Pharmacy Services in Bodh Gaya, Bihar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
